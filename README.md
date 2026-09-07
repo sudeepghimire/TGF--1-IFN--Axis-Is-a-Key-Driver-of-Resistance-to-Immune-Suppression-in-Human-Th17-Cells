@@ -1,4 +1,6 @@
-# TGF--1-IFN--Axis-Is-a-Key-Driver-of-Resistance-to-Immune-Suppression-in-Human-Th17-Cells
+## TGF--1-IFN--Axis-Is-a-Key-Driver-of-Resistance-to-Immune-Suppression-in-Human-Th17-Cells
+
+#Th17 subtypes bulk RNAseq data 
 
 metadata.csv: metadata file for the bulk RNAseq derived pseudocounts
 
