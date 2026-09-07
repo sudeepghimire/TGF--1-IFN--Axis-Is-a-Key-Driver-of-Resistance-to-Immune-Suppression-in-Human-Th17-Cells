@@ -9,11 +9,11 @@ library(tidyverse)
 library(pheatmap)
 
 # Loading data and preprocess it 
-metadata<-read.csv("metadata3samples.csv")
+metadata<-read.csv("metadata.csv")
 head(metadata)
 metadata
 dim(metadata)
-counts<-read.csv("counts3samples.csv") 
+counts<-read.csv("pseudocounts.csv") 
 head(counts)
 str(counts)
 
